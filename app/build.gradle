@@ -42,5 +42,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
     //todo 0
-    implementation 'com.github.gzeinnumer:MyLibDirectory:1.5.3'
+    implementation 'com.github.gzeinnumer:MyLibDirectory:1.5.4'
 }
