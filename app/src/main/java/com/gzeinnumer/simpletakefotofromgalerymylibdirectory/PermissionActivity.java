@@ -17,8 +17,7 @@ public class PermissionActivity extends AppCompatActivity {
     //todo 6
     PermissionEnum[] permissions = new PermissionEnum[]{
             PermissionEnum.WRITE_EXTERNAL_STORAGE,
-            PermissionEnum.READ_EXTERNAL_STORAGE,
-            PermissionEnum.CAMERA
+            PermissionEnum.READ_EXTERNAL_STORAGE
     };
 
     @Override
